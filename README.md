@@ -24,7 +24,7 @@ they can add and remove products to any category they want through the "admin pa
 the product they want, and with the "clear" button, they can delete the text boxes containing
 the information about the product they have created.
 
-2. DESIGN
+# 2. DESIGN
 
 a. Login & Sign-Up Screens
 
