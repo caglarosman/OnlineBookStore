@@ -130,6 +130,8 @@ type object we created into the parameter of the interface type in the construct
 contains, finding its own specific SQL type with the help of polymorphism and running its
 functions.
 
+# Note: This study was done with teammates.
+
 Thank you for reading...
 
 
