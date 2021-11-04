@@ -39,18 +39,23 @@ admin authority over the database.
 
 Main Menu
 Books
+
 ![image](https://user-images.githubusercontent.com/93661411/140268412-e4df2424-72f2-4e69-9790-8408f3bba49f.png)
 
 Magazines
+
 ![image](https://user-images.githubusercontent.com/93661411/140268423-bfa743fb-b433-4457-b1d7-fdb3b8b55773.png)
 
 Music/CD
+
 ![image](https://user-images.githubusercontent.com/93661411/140268517-a7af58eb-a2f1-4281-9482-38bfc3e64188.png)
 
 When using the search button
+
 ![image](https://user-images.githubusercontent.com/93661411/140268540-267b24dc-d876-4549-a1a3-a057ef390f90.png)
 
 The Pop-up Screen
+
 ![image](https://user-images.githubusercontent.com/93661411/140268561-1941ada3-c800-40a9-ad9e-96bc50ab38f8.png)
 
 
@@ -77,6 +82,7 @@ Invoice Mail
 ![image](https://user-images.githubusercontent.com/93661411/140268622-5d3177de-7335-4daa-830e-6bee8c717442.png)
 
 Admin Panel
+
 ![image](https://user-images.githubusercontent.com/93661411/140268662-511f0923-e124-47b1-91a4-a15b99a3b2e9.png)
 
 This page is the Admin Panel, if you an admin, you can access to this page and you can
@@ -87,13 +93,16 @@ product you can do it just with the product name.
 
 
 c. UML Diagram
+
 ![OnlineBookStore_UMLDiagram](https://user-images.githubusercontent.com/93661411/140268728-99265448-4377-47b8-a250-a18d2dc68a1c.png)
 
 
 d. Design Patterns That We Used
 
 Singleton Design Pattern
+
 ![image](https://user-images.githubusercontent.com/93661411/140268766-e6515f5e-5ffc-40d4-b548-9fc489354d8b.png)
+
 ![image](https://user-images.githubusercontent.com/93661411/140268775-14d59eb4-9c6d-4eaa-8277-045103c68b32.png)
 
 We used 2 design patterns in our project. First, Singleton Design Pattern, and the second
@@ -103,9 +112,13 @@ one shopping cart. We decided to use this design pattern in the â€œShoppingCartâ
 order not to overload the RAM.
 
 Strategy Design Pattern
+
 ![image](https://user-images.githubusercontent.com/93661411/140268799-f9444283-0652-43f4-a4d4-8711f910e24b.png)
+
 ![image](https://user-images.githubusercontent.com/93661411/140268813-87bdeecf-b2d2-4195-b815-65e09a43b30f.png)
+
 ![image](https://user-images.githubusercontent.com/93661411/140268824-4003ca5f-e4b3-4483-a49a-35afc578bc4b.png)
+
 ![image](https://user-images.githubusercontent.com/93661411/140268836-5aba28c2-7bb9-409f-ba49-4d59b68b9e93.png)
 
 The purpose of using this pattern is to make database connections in different SQL types
