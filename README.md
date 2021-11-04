@@ -73,6 +73,7 @@ type, he/she must input his/her credit card information. After purchasing the pr
 in the shopping cart, the invoice goes to the mail.
 
 Invoice Mail
+
 ![image](https://user-images.githubusercontent.com/93661411/140268622-5d3177de-7335-4daa-830e-6bee8c717442.png)
 
 Admin Panel
