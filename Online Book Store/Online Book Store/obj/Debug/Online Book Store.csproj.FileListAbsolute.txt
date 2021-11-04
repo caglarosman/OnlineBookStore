@@ -1,0 +1,138 @@
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\stdca\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\danya\OneDrive\Masaüstü\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ProductForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyCartForm.resources
+C:\Users\stdca\OneDrive\Masaüstü\ESOGU Courses\Year 2 - Term 2\OOP 2 (C#)\Project\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminPanelForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminPanelForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyCartForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ProductForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminPanelForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyCartForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ProductForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminPanelForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyCartForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ProductForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+D:\Danyal Jet\Lessons\Semesters\Studies - Semester 4\OOP\Codes\Real Last One\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminPanelForm.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyCartForm.resources
+C:\Users\Ss3mi\Desktop\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ProductForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe.config
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\bin\Debug\Online Book Store.exe
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\bin\Debug\Online Book Store.pdb
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.AdminPanelForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.MyCartForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.ProductForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.SignupForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.LoginForm.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe
+D:\2020-2021 Second Semeter\Object Orianted Programming\Online Book Store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Google.Protobuf.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\MySql.Data.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Buffers.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Memory.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Zstandard.Net.dll
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Google.Protobuf.pdb
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\Google.Protobuf.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\MySql.Data.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Buffers.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Memory.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.exe.config
+C:\Users\Sdrs81\Desktop\Online Book Store\Online Book Store\obj\Debug\Online Book Store.csproj.CopyComplete
