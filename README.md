@@ -1,6 +1,6 @@
 # OnlineBookStore
  
- #1. INTRODUCTION
+ # 1. INTRODUCTION
  
 In this project, we made a desktop application where users can sign up and buy products in
 different categories. Two types of users can enter the application, the first is the customer login
